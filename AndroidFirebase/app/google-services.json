@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "129889294592",
+    "firebase_url": "https://aula1610-1daff-default-rtdb.firebaseio.com",
+    "project_id": "aula1610-1daff",
+    "storage_bucket": "aula1610-1daff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129889294592:android:8016ba81cdc3ef0ed6bbe5",
+        "android_client_info": {
+          "package_name": "com.example.androidfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdzcoToMqtMC16S52HR6BoJanH3rGni0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
